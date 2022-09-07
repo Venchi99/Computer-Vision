@@ -44,7 +44,6 @@ Modified model:
 
 • 5×5 Convolutional Layer with 32 filters, stride 1 and padding 2. <br>
 • 3×3 Convolutional Layer with 64 filters, stride 1 and padding 1. <br>
-13 
 • Batch Normalization 2d Layer. <br>
 • ReLU Activation Layer. <br>
 • 2×2 Max Pooling Layer with a stride of 2. <br>
